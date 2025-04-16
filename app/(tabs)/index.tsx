@@ -16,9 +16,9 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
+        <ThemedText type="title">Mazoku Welcomes You !</ThemedText>
       </ThemedView>
+      <ThemedText type="subtitle">To your Favourite Anime App</ThemedText>
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
         <ThemedText>
